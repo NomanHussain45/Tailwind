@@ -10,8 +10,4 @@ Technologies Used:
 Tailwind CSS: A utility-first CSS framework for creating stylish and responsive web designs.
 React: A JavaScript library for building user interfaces, allowing for dynamic and interactive components.
 Vite: A fast build tool that significantly improves the development experience for modern web projects.
-Getting Started:
-Clone the Repository: git clone https://github.com/NomanHussain45/ADDread.git
-Install Dependencies: cd ADDread && npm install
-Start the Development Server: npm run dev
-Feel free to explore the codebase and contribute to enhance the project further!
+
